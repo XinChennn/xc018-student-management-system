@@ -1,8 +1,6 @@
-**完整代码收费 +  <img src="./images/qq.svg" width="20"> 316595344     或   <img src="./images/weChat.svg" width="20"> lz316595344  咨询**
+**完整代码 +  QQ: 316595344     或   WX: lz316595344  咨询**
 
 **接毕业设计和论文**
-
-**如果图片加载不出来可以去博客看 https://blog.csdn.net/qq_56450993/article/details/133586193**
 
 **毕业设计所有选题地址**
 
@@ -11,6 +9,8 @@
 **[gitee]👉https://gitee.com/xinchennn/allProjects**
 
 **[忻辰的个人博客]👉https://www.ixinjiu.cn/articles/156**
+
+**如果图片加载不出来可以去博客看 https://blog.csdn.net/qq_56450993/article/details/133586193**
 
 
 
@@ -85,6 +85,7 @@
 
 
 
-**完整代码 +  <img src="./images/qq.svg" width="20"> 316595344     或   <img src="./images/weChat.svg" width="20"> lz316595344  咨询** 
+**完整代码 +  QQ: 316595344     或   WX: lz316595344  咨询**
 
 **接毕业设计和论文**
+
