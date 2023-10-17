@@ -2,6 +2,9 @@
 
 **接毕业设计和论文**
 
+**如果图片加载不出来可以去博客看 https://blog.csdn.net/qq_56450993/article/details/133586193**
+
+
 **毕业设计所有选题地址**
 
 **[github]👉https://github.com/XinChennn/allProjects**
@@ -9,10 +12,6 @@
 **[gitee]👉https://gitee.com/xinchennn/allProjects**
 
 **[忻辰的个人博客]👉https://www.ixinjiu.cn/articles/156**
-
-**如果图片加载不出来可以去博客看 https://blog.csdn.net/qq_56450993/article/details/133586193**
-
-
 
 # 基于Spring Boot的教务管理系统、学生管理系统、课表查询系统  
 
